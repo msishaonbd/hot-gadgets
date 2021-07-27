@@ -1,0 +1,26 @@
+.orange-background{
+    background-color: rgb(245, 232, 217);
+    margin-top: 50px;
+}
+.col-md-7{
+    padding-left: 50px;
+}
+.smartphone,.laptop, .catagory{
+    margin-top: 50px;
+}
+.card-footer, .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgreen;
+}
+.catagory h2{
+    border-bottom: 5px solid orange; 
+    border-radius: 5px;
+}
+.bg{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.imgg{
+    height: 350px;
+    width: 350px;
+}
